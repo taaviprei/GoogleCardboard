@@ -3,3 +3,4 @@
 * Ekraani suurus - kuni 6 tolli
 * Hind – __15$__
 * Platvorm - *Android*
+* https://www.youtube.com/watch?v=wZXjoMMigJU
